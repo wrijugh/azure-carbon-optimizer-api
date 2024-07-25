@@ -1,0 +1,6 @@
+client_id="{client_id}"
+client_secret="{client_secret}"
+tetnant_id="{tetnant_id}"
+
+subscription_id="{subscription_guid}"
+resource_group_id="{your-resource_group_id}"
